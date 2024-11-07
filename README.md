@@ -100,7 +100,7 @@ Denna utbildningsplan är utformad för att underlätta övergången från en on
    - [Administration av Business Central Online](https://learn.microsoft.com/en-us/dynamics365/business-central/admin-access-overview) – Översikt över verktyg för användarhantering, säkerhetsinställningar och underhåll i SaaS-versionen.
 
 3. **Automatiserade Uppdateringar och Versionshantering**
-   - [Hantera uppgraderingar och underhåll](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/upgrade-deployment) – Information om hantering av automatiska uppdateringar och förberedelse för versionsbyten utan avbrott.
+   - [Hantera uppgraderingar och underhåll](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/) – Information om hantering av automatiska uppdateringar och förberedelse för versionsbyten utan avbrott.
 
 4. **Fördelar med SaaS-funktionalitet**
    - [Arbeta med Data Management och AI-funktioner](https://learn.microsoft.com/en-us/training/paths/data-management-foundation-business-central/) – Utnyttja molnbaserade AI- och datahanteringsverktyg som är unika för SaaS.
