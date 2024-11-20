@@ -2,7 +2,7 @@
 
 ## Introduktion
 
-Denna utbildningsplan är utformad för att underlätta övergången från en on-premises-lösning till SaaS-versionen av Dynamics 365 Business Central. Den inkluderar resurser för nybörjare, säljfunktioner, utveckling, avancerad datahantering och specifika rekommendationer för SaaS-migrering.
+Denna utbildningsplan är utformad för att underlätta övergången från en on-premises-lösning till SaaS-versionen av Dynamics 365 Business Central. Den inkluderar resurser för nybörjare, utveckling, avancerad datahantering och specifika rekommendationer för SaaS-migrering.
 
 ---
 
@@ -34,30 +34,27 @@ Denna utbildningsplan är utformad för att underlätta övergången från en on
 
 ---
 
-## Modul 3: Försäljning och Grundläggande Konfiguration (3 veckor)
+## Modul 3: Grundläggande Konfiguration (1 vecka)
 
-**Mål**: Få en översikt över försäljnings- och konfigurationsmöjligheter i Business Central och Dynamics 365 Sales.
+**Mål**: Få en översikt över konfigurationsmöjligheter i Business Central.
 
 ### Material:
 - [Distribuera och konfigurera Dynamics 365 Business Central](https://learn.microsoft.com/en-us/training/paths/deploy-configure-dynamics-365-business-central/)
-- [Lär dig grunderna i Dynamics 365 Sales](https://learn.microsoft.com/en-us/training/paths/learn-fundamentals-of-microsoft-dynamics-365-sales/)
-- [Arbeta med Dynamics 365 Sales](https://learn.microsoft.com/en-us/training/paths/working-with-dynamics-365-sales/)
 
 ### Tidsplan:
-- **3 veckor**, ca **1-2 timmar per dag**
+- **1 veckor**, ca **1-2 timmar per dag**
 
 ---
 
-## Modul 4: Certifieringskurser (4 veckor)
+## Modul 4: Certifieringskurser (2 veckor)
 
 **Mål**: Fördjupa kunskaperna och förbered för certifiering.
 
 ### Material:
-- [MB-210: Dynamics 365 Sales](https://learn.microsoft.com/en-us/training/courses/mb-210t01?ns-enrollment-type=Collection&ns-enrollment-id=bookmarks)
 - [MB-920: Grundläggande kunskaper i Dynamics 365](https://learn.microsoft.com/en-us/training/courses/mb-920t00?ns-enrollment-type=Collection&ns-enrollment-id=bookmarks)
 
 ### Tidsplan:
-- **4 veckor**, ca **2 timmar per dag**
+- **2 veckor**, ca **1 timme per dag**
 
 ---
 
@@ -119,8 +116,8 @@ Denna utbildningsplan är utformad för att underlätta övergången från en on
 |------------------------------|------------|------------------------------------------------------------|
 | **Modul 1**                  | 2 veckor   | Nybörjarintroduktion                                       |
 | **Modul 2**                  | 1 vecka    | Arbeta med sidor i Business Central                        |
-| **Modul 3**                  | 3 veckor   | Försäljning och Grundläggande Konfiguration                |
-| **Modul 4**                  | 4 veckor   | Certifieringskurser                                        |
+| **Modul 3**                  | 1 veckor   | Grundläggande Konfiguration                                |
+| **Modul 4**                  | 2 veckor   | Certifieringskurser                                        |
 | **Modul 5**                  | 5 veckor   | Utvecklare och Anpassningar                                |
 | **Modul 6**                  | 4 veckor   | Avancerad Datahantering och Pro-data                       |
 | **Modul 7**                  | 5 veckor   | Övergång från On-Premises till SaaS                        |
